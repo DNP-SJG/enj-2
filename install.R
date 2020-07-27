@@ -1,5 +1,3 @@
-install.packages("tidyverse")
-install.packages("rmarkdown")
-install.packages("httr")
-install.packages("shinydashboard")
-install.packages('leaflet')
+install.packages("tidyr")
+install.packages("data.table")
+install.packages("openxlsx")
