@@ -1,3 +1,7 @@
 install.packages("tidyr")
 install.packages("data.table")
 install.packages("openxlsx")
+install.packages("plyr")
+install.packages("viridis")
+install.packages("ggplot2")
+install.packages("doBy")
